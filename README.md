@@ -1,6 +1,7 @@
-Hi, I'm Harshini 👋  
+# Hi, I'm Harshini 👋
+
 Computer Science Undergraduate • Software Developer • Cybersecurity Enthusiast  
-Focused on Data Structures & Algorithms, Secure Software Systems, and Machine Learning
+Focused on Data Structures & Algorithms, Secure Systems, and Machine Learning
 
 🛠 Tech Stack  
 💻 C++  
@@ -11,19 +12,24 @@ Focused on Data Structures & Algorithms, Secure Software Systems, and Machine Le
 ⚡ Git & GitHub  
 
 🚀 Current Focus  
-Strengthening Data Structures & Algorithms  
+Strengthening Data Structures & Algorithms in C++  
 Exploring Cybersecurity and Threat Intelligence  
-Building Machine Learning and AI-based applications  
-Developing scalable and secure software systems  
+Building AI and Machine Learning projects  
+Preparing for technical placements  
 
-📊 GitHub Stats  
+📊 GitHub Stats
 
-![Harshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshini2015&show_icons=true&theme=default)
+![Harshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshini2015&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini2015&layout=compact)
+
+🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Harshini2015)
 
 ---
 
 📫 Connect  
-LinkedIn: https://linkedin.com/in/harshini-s-8400372bb  
+
+LinkedIn: https://www.linkedin.com/in/harshini-s-8400372bb  
 Email: harshiniis2005@gmail.com
