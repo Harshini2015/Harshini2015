@@ -1,9 +1,12 @@
 # Hi, I'm Harshini 👋
 
 Computer Science Undergraduate • Software Developer • Cybersecurity Enthusiast  
-Focused on Data Structures & Algorithms, Secure Systems, and Machine Learning
+Focused on Data Structures & Algorithms, Machine Learning, and Secure Software Systems
 
-🛠 Tech Stack  
+---
+
+## 🛠 Tech Stack
+
 💻 C++  
 🐍 Python  
 🌐 HTML, CSS, JavaScript  
@@ -11,25 +14,33 @@ Focused on Data Structures & Algorithms, Secure Systems, and Machine Learning
 🍃 MongoDB  
 ⚡ Git & GitHub  
 
-🚀 Current Focus  
-Strengthening Data Structures & Algorithms in C++  
-Exploring Cybersecurity and Threat Intelligence  
-Building AI and Machine Learning projects  
-Preparing for technical placements  
+---
 
-📊 GitHub Stats
+## 🚀 Current Focus
 
-![Harshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshini2015&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini2015&layout=compact)
-
-🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Harshini2015)
+• Strengthening Data Structures & Algorithms in C++  
+• Exploring Cybersecurity and Threat Intelligence  
+• Building Machine Learning and AI-driven applications  
+• Developing secure and scalable software systems  
+• Preparing for software engineering placements  
 
 ---
 
-📫 Connect  
+## 📊 GitHub Stats
+
+![Harshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshini2015&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini2015&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Harshini2015&theme=tokyonight)
+
+---
+
+## 📫 Connect
 
 LinkedIn: https://www.linkedin.com/in/harshini-s-8400372bb  
 Email: harshiniis2005@gmail.com
