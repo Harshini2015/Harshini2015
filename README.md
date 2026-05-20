@@ -395,30 +395,16 @@
 
 ---
 
-## 🤝 Let's Connect
+## Contact ✉️
 
 <div align="center">
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshini%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://linkedin.com/in/harshini-s-8400372bb)
-[
-
-![LeetCode](https://img.shields.io/badge/LeetCode-harshini1322-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
-](https://leetcode.com/u/harshini1322/)
-[
-
 ![Gmail](https://img.shields.io/badge/Gmail-harshiniiis2005-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
-](mailto:harshiniiis2005@gmail.com)
-[
+(mailto:harshiniiis2005@gmail.com)
 
-![Linktree](https://img.shields.io/badge/Linktree-harshini132-39E09B?style=for-the-badge&logo=linktree&logoColor=white)
 
-](https://linktr.ee/harshini132)
+
 
 </div>
 
