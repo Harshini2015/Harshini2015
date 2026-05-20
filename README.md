@@ -20,6 +20,11 @@
 ](https://linkedin.com/in/harshini-s-8400372bb)
 [
 
+![LeetCode](https://img.shields.io/badge/LeetCode-harshini1322-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+](https://leetcode.com/u/harshini1322/)
+[
+
 ![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 ](mailto:harshiniiis2005@gmail.com)
@@ -31,11 +36,7 @@
 
 <br/>
 
-
-
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -113,26 +114,32 @@
 <tr>
 <td width="50%" valign="top">
 
-### 📈 Financial Research AI Agent
-> LangChain · Google Gemini · yfinance · Streamlit
+### 💰 MERN Smart Loan Analyzer
+> Full Stack | MongoDB · Express · React · Node.js
 
-- 📊 AI-powered stock analysis agent for NSE/BSE markets
-- ⚡ Real-time data via yfinance + Gemini LLM reasoning
-- 🖥️ Streamlit dashboard for interactive financial queries
-
-
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+- 🏦 Smart loan eligibility analyzer with real-time decision engine
+- 📊 Dynamic dashboard with loan insights & repayment calculator
+- 🔐 Secure auth with JWT + bcrypt password hashing
+- ⚡ REST API backend with React frontend & MongoDB Atlas
 
 
 
-
-![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 
 
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+
+
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+
+
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 
 
@@ -145,6 +152,7 @@
 - 🛡️ IoT safety system detecting alcohol & blocking ignition
 - ⚙️ Hardware-software integration using Arduino & MQ-3 sensor
 - 🔔 Real-time threshold alerting for rider safety
+- 🥇 1st Place — Project Expo, BGS Institute of Technology
 
 
 
@@ -169,145 +177,163 @@
 
 <div align="center">
 
-### ⚡ Languages
+**⚡ Languages**
+
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-
+ 
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-
-
+ 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
-
+ 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 
-### 🔧 Backend & APIs
+**🔧 Backend & APIs**
+
 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-
-
+ 
 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-
-
+ 
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
+ 
 
+![Gunicorn](https://img.shields.io/badge/Gunicorn-298729?style=for-the-badge&logo=gunicorn&logoColor=white)
 
+ 
 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-
-
+ 
 
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 
-### 🗄️ Databases
+**🗄️ Databases**
+
 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-
+ 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-
+ 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-
+ 
 
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logoColor=black)
 
 
 
-### 🤖 ML / AI
+**🤖 ML / AI**
+
 
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-
-
+ 
 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-
-
+ 
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-
-
+ 
 
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 
-
-
+ 
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 
+ 
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 
-### ☁️ DevOps & Tools
+
+**☁️ DevOps & Deployment**
+
 
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
-
+ 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-
+ 
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
-
+ 
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-
-
+ 
 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
+ 
+
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 
-### 🎨 Frontend
+
+**🎨 Frontend**
+
 
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-
-
+ 
 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
-
+ 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+**🧰 Dev Tools**
+
+
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+ 
+
+![Windsurf](https://img.shields.io/badge/Windsurf-0080FF?style=for-the-badge&logoColor=white)
+
+ 
+
+![Antigravity](https://img.shields.io/badge/Antigravity-6E40C9?style=for-the-badge&logoColor=white)
+
+ 
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
 
@@ -336,10 +362,15 @@
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏅 Certifications & Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshini2015&theme=algolia&no-frame=false&row=1&column=7&margin-w=10" width="100%"/>
+
+| 🏆 Achievement | Details |
+|----------------|---------|
+| 🥇 **1st Place** | Alcohol Detection System — Project Expo, BGS Institute of Technology |
+| 🎖️ **Certificate of Merit** | AlgoUniversity Tech Fellowship — Top 8% |
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -352,7 +383,7 @@
 
 | Skill | Progress | Stack |
 |-------|----------|-------|
-| 🔷 DSA & Problem Solving | ████████████░░░░ | Java · LeetCode · HackWithInfy |
+| 🔷 DSA & Problem Solving | ████████████░░░░ | Java · Python · LeetCode |
 | 🔷 System Design | ████████░░░░░░░░ | Distributed Systems · HLD · LLD |
 | 🔷 Backend Engineering | ██████████████░░ | Node.js · PostgreSQL · APIs |
 | 🔷 Machine Learning | ████████████░░░░ | TensorFlow · XGBoost · NLP |
@@ -375,6 +406,11 @@
 ](https://linkedin.com/in/harshini-s-8400372bb)
 [
 
+![LeetCode](https://img.shields.io/badge/LeetCode-harshini1322-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
+](https://leetcode.com/u/harshini1322/)
+[
+
 ![Gmail](https://img.shields.io/badge/Gmail-harshiniiis2005-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 ](mailto:harshiniiis2005@gmail.com)
@@ -390,6 +426,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=path%20%3D%20already.written()&fontSize=20&fontColor=00f5ff&fontAlignY=65&animation=twinkling" width="100%"/>
+### 😄 LOL ! Everything just aligns somehow 🚀✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=path%20%3D%20already.written()%20%F0%9F%98%84&fontSize=20&fontColor=00f5ff&fontAlignY=65&animation=twinkling" width="100%"/>
 
 </div>
