@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Harshini%20S&fontSize=60&fontColor=00f5ff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI%20%7C%20Cybersecurity&descAlignY=58&descColor=a78bfa&animation=twinkling" width="100%"/>
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+Secure+%26+Scalable+Systems;Backend+Dev+%7C+Node.js+%7C+PostgreSQL;ML+Engineer+%7C+TensorFlow+%7C+XGBoost;Open+to+FAANG+%26+Product+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
@@ -31,34 +29,15 @@
 
 ](https://linktr.ee/harshini132)
 
+<br/>
+
+
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+
+
 </div>
-
----
-
-## 🧬 About Me
-
-```python
-class Harshini:
-    def __init__(self):
-        self.name        = "Harshini S"
-        self.role        = "Software Engineer"
-        self.college     = "PES College of Engineering, Mandya (Batch 2027)"
-        self.cgpa        = 8.34
-        self.location    = "Mysore / Bengaluru, India"
-
-        self.focus       = ["Backend Systems", "Machine Learning", "Cybersecurity"]
-        self.languages   = ["Python", "C++", "JavaScript", "Java"]
-        self.databases   = ["PostgreSQL", "MySQL", "MongoDB"]
-        self.backend     = ["Node.js", "Express", "Flask", "REST APIs", "JWT"]
-        self.ml_stack    = ["TensorFlow", "Keras", "XGBoost", "scikit-learn"]
-        self.devops      = ["Docker", "Vercel", "Render", "Railway"]
-
-        self.currently   = "Targeting SDE roles @ Product & FAANG-adjacent companies"
-        self.open_to     = ["Full-Time SDE", "Backend Engineer", "ML Engineer"]
-
-    def motto(self):
-        return "path = already.written()  # just walk it."
-` ` `
 
 ---
 
@@ -71,10 +50,10 @@ class Harshini:
 ### 🔐 SecureMail — Phishing Intelligence Platform
 > **Backend Lead** | Node.js · Express · PostgreSQL · XGBoost · Flask
 
-- 90% phishing classification accuracy via XGBoost ML service
-- Integrated VirusTotal & MXToolbox cybersecurity APIs
-- JWT-auth REST API + React frontend + Sequelize ORM
-- Led a 5-member team, managed Git workflows & live debugging
+- 🎯 90% phishing classification accuracy via XGBoost ML service
+- 🔗 Integrated VirusTotal & MXToolbox cybersecurity APIs
+- 🔑 JWT-auth REST API + React frontend + Sequelize ORM
+- 👥 Led a 5-member team, managed Git workflows & live debugging
 
 
 
@@ -103,10 +82,10 @@ class Harshini:
 ### 🧠 DermIQ — AI Dermatological Screening
 > **UI/Frontend Dev** | Python · Gradio · TensorFlow · Keras · fpdf2
 
-- MobileNetV2 transfer learning for acne severity classification
-- Built Gradio UI, prediction history & PDF report generation
-- Doctor finder module with geographic filtering
-- Resolved Git rebase conflicts in collaborative workflow
+- 🏥 MobileNetV2 transfer learning for acne severity classification
+- 🖥️ Built Gradio UI, prediction history & PDF report generation
+- 📍 Doctor finder module with geographic filtering
+- 🔀 Resolved Git rebase conflicts in collaborative workflow
 
 
 
@@ -137,9 +116,9 @@ class Harshini:
 ### 📈 Financial Research AI Agent
 > LangChain · Google Gemini · yfinance · Streamlit
 
-- AI-powered stock analysis agent for NSE/BSE markets
-- Real-time data via yfinance + Gemini LLM reasoning
-- Streamlit dashboard for interactive financial queries
+- 📊 AI-powered stock analysis agent for NSE/BSE markets
+- ⚡ Real-time data via yfinance + Gemini LLM reasoning
+- 🖥️ Streamlit dashboard for interactive financial queries
 
 
 
@@ -163,9 +142,9 @@ class Harshini:
 ### 🚗 Alcohol-Based Ignition Lock System
 > Arduino · IoT · MQ-3 Sensor · Embedded C
 
-- IoT safety system detecting alcohol & blocking ignition
-- Hardware-software integration using Arduino & MQ-3 sensor
-- Real-time threshold alerting for rider safety
+- 🛡️ IoT safety system detecting alcohol & blocking ignition
+- ⚙️ Hardware-software integration using Arduino & MQ-3 sensor
+- 🔔 Real-time threshold alerting for rider safety
 
 
 
@@ -182,13 +161,15 @@ class Harshini:
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 ## 🛠 Tech Stack
 
 <div align="center">
 
-### Languages
+### ⚡ Languages
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -210,7 +191,7 @@ class Harshini:
 
 
 
-### Backend & APIs
+### 🔧 Backend & APIs
 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -237,7 +218,7 @@ class Harshini:
 
 
 
-### Databases
+### 🗄️ Databases
 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -259,7 +240,7 @@ class Harshini:
 
 
 
-### ML / AI
+### 🤖 ML / AI
 
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -286,7 +267,7 @@ class Harshini:
 
 
 
-### DevOps & Tools
+### ☁️ DevOps & Tools
 
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -313,7 +294,7 @@ class Harshini:
 
 
 
-### Frontend
+### 🎨 Frontend
 
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -332,6 +313,8 @@ class Harshini:
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 ## 📊 GitHub Analytics
@@ -349,6 +332,8 @@ class Harshini:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshini2015&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff&area=true&hide_border=false&border_color=00f5ff" width="95%"/>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 ## 🏆 Achievements & Trophies
@@ -357,15 +342,27 @@ class Harshini:
   <img src="https://github-profile-trophy.vercel.app/?username=Harshini2015&theme=algolia&no-frame=false&row=1&column=7&margin-w=10" width="100%"/>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 ## 🎯 Current Focus
-🔷  DSA & Problem Solving     ████████████░░░░  Java | LeetCode | HackWithInfy
-🔷  System Design             ████████░░░░░░░░  Distributed Systems | HLD | LLD
-🔷  Backend Engineering       ██████████████░░  Node.js | PostgreSQL | APIs
-🔷  Machine Learning          ████████████░░░░  TensorFlow | XGBoost | NLP
-🔷  Placement Prep            ████████████████  Product & FAANG-adjacent companies
 
+<div align="center">
+
+| Skill | Progress | Stack |
+|-------|----------|-------|
+| 🔷 DSA & Problem Solving | ████████████░░░░ | Java · LeetCode · HackWithInfy |
+| 🔷 System Design | ████████░░░░░░░░ | Distributed Systems · HLD · LLD |
+| 🔷 Backend Engineering | ██████████████░░ | Node.js · PostgreSQL · APIs |
+| 🔷 Machine Learning | ████████████░░░░ | TensorFlow · XGBoost · NLP |
+| 🔷 Placement Prep | ████████████████ | Product & FAANG-adjacent |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
 
 ## 🤝 Let's Connect
 
