@@ -25,10 +25,6 @@
 (https://leetcode.com/u/harshini1322/)
 
 
-![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-
-(mailto:harshiniiis2005@gmail.com)
-
 
 ![Linktree](https://img.shields.io/badge/Linktree-Portfolio-39E09B?style=for-the-badge&logo=linktree&logoColor=white)
 
@@ -399,11 +395,11 @@
 
 <div align="center">
 
-![Gmail](https://img.shields.io/badge/Gmail-harshiniiis2005-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
+
+![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
 (mailto:harshiniiis2005@gmail.com)
-
-
 
 
 </div>
