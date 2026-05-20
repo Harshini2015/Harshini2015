@@ -12,27 +12,27 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Harshini2015&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)
 
-](https://github.com/Harshini2015)
-[
+(https://github.com/Harshini2015)
+
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-](https://linkedin.com/in/harshini-s-8400372bb)
-[
+(https://linkedin.com/in/harshini-s-8400372bb)
+
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-harshini1322-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
-](https://leetcode.com/u/harshini1322/)
-[
+(https://leetcode.com/u/harshini1322/)
+
 
 ![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
-](mailto:harshiniiis2005@gmail.com)
-[
+(mailto:harshiniiis2005@gmail.com)
+
 
 ![Linktree](https://img.shields.io/badge/Linktree-Portfolio-39E09B?style=for-the-badge&logo=linktree&logoColor=white)
 
-](https://linktr.ee/harshini132)
+(https://linktr.ee/harshini132)
 
 <br/>
 
@@ -426,7 +426,7 @@
 
 <div align="center">
 
-### 😄 LOL ! Everything just aligns somehow 🚀✨
+###  LOL ! Everything just aligns somehow 🚀✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=path%20%3D%20already.written()%20%F0%9F%98%84&fontSize=20&fontColor=00f5ff&fontAlignY=65&animation=twinkling" width="100%"/>
 
