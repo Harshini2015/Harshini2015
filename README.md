@@ -12,7 +12,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Harshini2015&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)
 
-(https://github.com/Harshini2015)
 
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
