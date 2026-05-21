@@ -118,7 +118,7 @@
 
 [![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh)
 [![Windsurf](https://img.shields.io/badge/Windsurf-0080FF?style=for-the-badge&logoColor=white)](https://codeium.com/windsurf)
-[![Qodo](https://img.shields.io/badge/Qodo-7C3AED?style=for-the-badge&logoColor=white)](https://qodo.ai)
+[![Qoder](https://img.shields.io/badge/Qodo-7C3AED?style=for-the-badge&logoColor=white)](https://qodor.ai)
 [![Antigravity](https://img.shields.io/badge/Antigravity-6E40C9?style=for-the-badge&logoColor=white)](https://antigravity.dev)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 
