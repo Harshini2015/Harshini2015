@@ -174,6 +174,6 @@
 ---
 
 
-### LOL ! Everything just aligns somehow 🚀✨
+### LOL 😃 ! Everything just aligns somehow 🚀✨
 
 [![](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=path%20%3D%20already.written()%20%F0%9F%9A%84&fontSize=20&fontColor=00f5ff&fontAlignY=65&animation=twinkling)](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=path%20%3D%20already.written()%20%F0%9F%9A%84&fontSize=20&fontColor=00f5ff&fontAlignY=65&animation=twinkling)
