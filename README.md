@@ -176,4 +176,12 @@
 
 ### LOL 😃 ! Everything just aligns somehow 🚀✨
 
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=A%20subtle%20harmony%20unfolds%20when%20intent%20remains%20untainted%2C%0Aand%20what%20is%20truly%20deserved%20will%20find%20its%20way✨&fontSize=20&fontColor=00f5ff&fontAlignY=65&animation=twinkling)](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=A%20subtle%20harmony%20unfolds%20when%20intent%20remains%20untainted%2C%0Aand%20what%20is%20truly%20deserved%20will%20find%20its%20way✨&fontSize=20&fontColor=00f5ff&fontAlignY=65&animation=twinkling)
+<div align="center">
+
+[
+
+![footer](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=footer&text=A%20subtle%20harmony%20unfolds%20when%20intent%20remains%20untainted%2C&desc=and%20what%20is%20truly%20deserved%20will%20find%20its%20way%20✨&fontSize=18&fontColor=00f5ff&descSize=18&descAlignY=75&fontAlignY=55&animation=twinkling&descAlign=50)
+
+](https://github.com/yourusername)
+
+</div>
