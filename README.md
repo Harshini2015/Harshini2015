@@ -176,11 +176,4 @@
 
 ### LOL 😃 ! Everything just aligns somehow 🚀✨
 
-[![](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header
-&text=A%20subtle%20harmony%20unfolds%0Awhen%20intent%20remains%20untainted%0Aand%20what%20is%20truly%20deserved%20finds%20its%20way%20✨
-&fontSize=20
-&fontColor=ffffff
-&fontAlignY=38
-&animation=twinkling)](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header
-&text=A%20subtle%20harmony%20unfolds%0Awhen%20intent%20remains%20untainted%0Aand%20what%20is%20truly%20deserved%20finds%20its%20way%20✨
-&animation=twinkling)
+https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=A%20subtle%20harmony%20unfolds%0Awhen%20intent%20remains%20untainted%0Aand%20what%20truly%20belongs%20finds%20its%20way%20✨✨&animation=twinkling
