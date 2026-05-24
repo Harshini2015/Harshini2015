@@ -175,11 +175,3 @@
 
 
 ### LOL 😃 ! Everything just aligns somehow 🚀✨
-
-<div align="center">
-
-
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,40:302b63,100:24243e&height=200&section=header&text=A%20subtle%20harmony%20unfolds%20when%20intent%20remains%20untainted%2C&fontSize=22&fontColor=00f5ff&fontAlignY=45&animation=fadeIn&desc=and%20what%20is%20truly%20deserved%20will%20find%20its%20way%20%E2%9C%A8&descSize=20&descAlignY=72&descAlign=50)
-
-
-</div>
