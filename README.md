@@ -152,16 +152,15 @@
 
 ---
 
-
 ## 🎯 Current Focus
 
-| Skill                   | Progress         | Stack                           |
-| ----------------------- | ---------------- | ------------------------------- |
-| 🔷 DSA & Problem Solving | ████████████░░░░ | Java · Python · LeetCode        |
-| 🔷 System Design         | ████████░░░░░░░░ | Distributed Systems · HLD · LLD |
-| 🔷 Backend Engineering   | ██████████████░░ | Node.js · PostgreSQL · APIs     |
-| 🔷 Machine Learning      | ████████████░░░░ | TensorFlow · XGBoost · NLP      |
-| 🔷 Placement Prep        | ████████████████ | Product & FAANG-adjacent        |
+| Skill                    | Progress         | Stack / Status                         |
+| ------------------------ | ---------------- | -------------------------------------- |
+| 🔷 DSA & Problem Solving | ██████████████░░ | Java · Python · LeetCode              |
+| 🔷 System Design Basics  | ███████░░░░░░░░░ | Learning Phase · HLD · LLD Concepts   |
+| 🔷 Backend Engineering   | ███████████░░░░░ | APIs · Core Backend Concepts          |
+| 🔷 Machine Learning      | ██████░░░░░░░░░░ | Basics Only · Concepts & Intro Models  |
+| 🔷 Placement Prep       | ████████████████ | Doing · FAANG / Product Roles Focus    |
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
