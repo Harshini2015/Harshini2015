@@ -19,15 +19,20 @@
 
 ## 🚀 Featured Projects
 
-- 🔐 **SecureMail — Phishing Intelligence Platform**
-  **Backend Lead** | Node.js · Express · PostgreSQL · XGBoost · Flask
+- 🤖 **Nexora AI – AI Career Coach & Placement Platform**
+  AI Platform | Python · Gradio · Groq SDK · Llama 3.1 · Supabase
 
-  - 🎯 90% phishing classification accuracy via XGBoost ML service
-  - 🔗 Integrated VirusTotal & MXToolbox cybersecurity APIs
-  - 🔑 JWT-auth REST API + React frontend + Sequelize ORM
-  - 👥 Led a 5-member team, managed Git workflows & live debugging
+- 🎯 AI Career Coach for personalized career guidance & recommendations
+- 📄 Resume Analyzer with PDF resume analysis using PyPDF & Pandas
+- 🎤 Interview Simulator for interactive placement interview preparation
+- 📊 Career Planner with interactive dashboards & visualizations using Plotly
 
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+🔗 **[GitHub Repository](https://github.com/Harshini2015/nexora-ai)**  
+🚀 **[Live Demo](https://nexora-ai-cjo5.onrender.com)**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)](https://www.gradio.app/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
 
 - 🧠 **DermIQ — AI Dermatological Screening**
   **UI/Frontend Dev** | Python · Gradio · TensorFlow · Keras · fpdf2
@@ -70,7 +75,6 @@
 **⚡ Languages**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://java.com)
 
@@ -134,8 +138,6 @@
 [![](https://github-readme-stats.vercel.app/api?username=Harshini2015&show_icons=true&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&hide_border=false&rank_icon=github)](https://github.com/Harshini2015) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini2015&layout=compact&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9)](https://github.com/Harshini2015)
 
 [![](https://streak-stats.demolab.com/?user=Harshini2015&theme=tokyonight&border=00f5ff&background=0d1117&ring=a78bfa&fire=00f5ff&currStreakLabel=a78bfa)](https://streak-stats.demolab.com/?user=Harshini2015)
-
-[![](https://github-readme-activity-graph.vercel.app/graph?username=Harshini2015&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff&area=true&hide_border=false&border_color=00f5ff)](https://github.com/Harshini2015)
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
