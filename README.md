@@ -19,28 +19,6 @@
 
 ## 🚀 Featured Projects
 
-- 🤖 **Nexora AI – AI Career Coach & Placement Platform**
-  AI Platform | Python · Gradio · Groq SDK · Llama 3.1 · Supabase
-
-- 🎯 AI Career Coach for personalized career guidance & recommendations
-- 📄 Resume Analyzer with PDF resume analysis using PyPDF & Pandas
-- 🎤 Interview Simulator for interactive placement interview preparation
-- 📊 Career Planner with interactive dashboards & visualizations using Plotly
-
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white)](https://www.gradio.app/)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
-
-- 🧠 **DermIQ — AI Dermatological Screening**
-  **UI/Frontend Dev** | Python · Gradio · TensorFlow · Keras · fpdf2
-
-  - 🏥 MobileNetV2 transfer learning for acne severity classification
-  - 🖥️ Built Gradio UI, prediction history & PDF report generation
-  - 📍 Doctor finder module with geographic filtering
-  - 🔀 Resolved Git rebase conflicts in collaborative workflow
-
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square)
-
 - 💰 **MERN Smart Loan Analyzer**
   Full Stack | MongoDB · Express · React · Node.js
 
