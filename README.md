@@ -122,4 +122,3 @@
 ---
 
 
-### __A subtle harmony unfolds when intent remains untainted, and what is truly deserved inevitably finds its way✨__
