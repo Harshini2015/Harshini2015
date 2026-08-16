@@ -6,8 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshini-s-8400372bb)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-harshini1322-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/harshini0013/)
-
 [![Linktree](https://img.shields.io/badge/Linktree-Portfolio-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/harshini132)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-kappa-dusky.vercel.app/)
