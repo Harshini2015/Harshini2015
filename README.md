@@ -16,6 +16,7 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
 - 💰 **MERN Smart Loan Analyzer**
