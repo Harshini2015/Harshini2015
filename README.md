@@ -94,24 +94,14 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshini2015&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="180"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini2015&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshini2015&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini2015&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Harshini2015&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Harshini2015&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&sideLabels=c9d1d9&dates=c9d1d9&stroke=30363d" width="70%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshini2015&bg_color=0d1117&color=c9d1d9&line=00f5ff&point=a78bfa&area=true&hide_border=true" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshini2015&theme=github_dark" width="95%"/>
-</p>
-
----
 
 
 
