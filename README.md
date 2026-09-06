@@ -93,13 +93,25 @@
 
 ## 📊 GitHub Analytics
 
-[![](https://github-readme-stats.vercel.app/api?username=Harshini2015&show_icons=true&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&hide_border=false&rank_icon=github)](https://github.com/Harshini2015) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini2015&layout=compact&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9)](https://github.com/Harshini2015)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshini2015&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="180"/>
 
-[![](https://streak-stats.demolab.com/?user=Harshini2015&theme=tokyonight&border=00f5ff&background=0d1117&ring=a78bfa&fire=00f5ff&currStreakLabel=a78bfa)](https://streak-stats.demolab.com/?user=Harshini2015)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini2015&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" height="180"/>
+</p>
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Harshini2015&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" height="180"/>
+</p>
 
---- 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshini2015&bg_color=0d1117&color=c9d1d9&line=00f5ff&point=a78bfa&area=true&hide_border=true" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshini2015&theme=github_dark" width="95%"/>
+</p>
+
+---
 
 
 
