@@ -93,10 +93,15 @@
 
 ## 📊 GitHub Analytics
 
-![Contribution Graph](https://ghchart.rshah.org/Harshini2015)
-![Commits](https://img.shields.io/badge/Total_Commits-500%2B-00f5ff?style=for-the-badge)
-![Contributions](https://img.shields.io/badge/Contributions_2025-300%2B-00f5ff?style=for-the-badge)
+<div align="center">
 
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Harshini2015&theme=tokyonight&hide_border=true)
+
+<br/>
+
+![Contribution Graph](https://ghchart.rshah.org/00f5ff/Harshini2015)
+
+</div>
 ## 🏅 Certifications & Achievements
 
 | 🏆 Achievement               | Details                                                              |
