@@ -91,16 +91,13 @@
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Analytics
 
-### 📊 GitHub Stats
+![Harshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshini2015&show_icons=true&theme=radical&count_private=true&hide_border=true)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Harshini2015&label=Public%20Repos&query=$.public_repos&color=orange&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Harshini2015&label=Followers&query=$.followers&color=green&style=for-the-badge" />
-</p>
-![Harshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshini2015&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini2015&layout=compact&theme=radical&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshini2015&theme=radical&hide_border=true)
 ---
 
 
