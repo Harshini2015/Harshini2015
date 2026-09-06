@@ -93,11 +93,9 @@
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
-![Harshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshini2015&show_icons=true&count_private=true&hide_border=true&theme=radical)
-
 ![Contribution Graph](https://ghchart.rshah.org/Harshini2015)
+![Commits](https://img.shields.io/badge/Total_Commits-500%2B-00f5ff?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions_2025-300%2B-00f5ff?style=for-the-badge)
 
 ## 🏅 Certifications & Achievements
 
