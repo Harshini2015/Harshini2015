@@ -102,6 +102,9 @@
 ![Contribution Graph](https://ghchart.rshah.org/00f5ff/Harshini2015)
 
 </div>
+
+---
+
 ## 🏅 Certifications & Achievements
 
 | 🏆 Achievement               | Details                                                              |
