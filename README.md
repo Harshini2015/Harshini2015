@@ -93,13 +93,9 @@
 
 ## 📊 GitHub Analytics
 
-![Harshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshini2015&show_icons=true&theme=radical&count_private=true&hide_border=true)
+![Harshini's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Harshini2015&show_icons=true&count_private=true&hide_border=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini2015&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshini2015&theme=radical&hide_border=true)
----
-
+![Contribution Graph](https://ghchart.rshah.org/Harshini2015)
 
 ## 🏅 Certifications & Achievements
 
