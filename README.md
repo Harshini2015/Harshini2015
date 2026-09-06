@@ -91,28 +91,15 @@
 
 ---
 
-<h3 align="center">📊 GitHub Analytics</h3>
+### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=Harshini2015&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Harshini2015&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-rickstaa.vercel.app/?user=Harshini2015&theme=tokyonight&hide_border=true" width="49%" />
-</p>
+<img src="https://ghchart.rshah.org/00F7FF/Harshini2015" alt="Harshini's GitHub chart" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshini2015&theme=tokyo-night&hide_border=true" width="90%" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harshini2015/Harshini2015/output/github-contribution-grid-snake-dark.svg" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshini2015&theme=tokyonight&no-frame=true&row=1&column=6" width="90%" />
-</p>
+---
 
 
 ## 🏅 Certifications & Achievements
