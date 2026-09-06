@@ -93,11 +93,7 @@
 
 ### 📊 GitHub Activity
 
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00F7FF/Harshini2015" alt="Harshini's GitHub chart" />
-
-</div>
+![Harshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshini2015&show_icons=true&theme=radical&hide_border=true
 
 ---
 
