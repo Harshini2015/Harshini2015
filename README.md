@@ -91,21 +91,12 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshini2015&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini2015&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Harshini2015&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshini2015&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshini2015&bg_color=0d1117&color=00f5ff&line=00f5ff&point=a78bfa&area=true&hide_border=true" width="95%"/>
-</p>
+📊 GitHub Stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshini2015&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini2015&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshini2015&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshini2015&theme=tokyo-night&hide_border=true" /> </p>
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/Harshini2015/Harshini2015/output/github-contribution-grid-snake-dark.svg" /> </p> <!-- Setup for the snake (one-time, via GitHub Actions): 1. Create .github/workflows/snake.yml in the Harshini2015/Harshini2015 repo 2. Use action: Platane/snk@v3, output to the `output` branch 3. Reference that SVG path above (already matches this repo's convention) -->
+🏆 Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Harshini2015&theme=tokyonight&no-frame=true&row=1&column=6" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Harshini2015&style=flat&color=58A6FF" /> </p>
 
 
 ## 🏅 Certifications & Achievements
