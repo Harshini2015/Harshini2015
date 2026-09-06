@@ -93,28 +93,13 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/Harshini2015">
-    <img src="https://github-readme-stats.vercel.app/api?username=Harshini2015&show_icons=true&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&hide_border=false&rank_icon=github" height="180"/>
-  </a>
+[![](https://github-readme-stats.vercel.app/api?username=Harshini2015&show_icons=true&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&hide_border=false&rank_icon=github)](https://github.com/Harshini2015) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini2015&layout=compact&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9)](https://github.com/Harshini2015)
 
-  <a href="https://github.com/Harshini2015">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini2015&layout=compact&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" height="180"/>
-  </a>
-</p>
+[![](https://streak-stats.demolab.com/?user=Harshini2015&theme=tokyonight&border=00f5ff&background=0d1117&ring=a78bfa&fire=00f5ff&currStreakLabel=a78bfa)](https://streak-stats.demolab.com/?user=Harshini2015)
 
-<p align="center">
-  <a href="https://streak-stats.demolab.com/?user=Harshini2015">
-    <img src="https://streak-stats.demolab.com/?user=Harshini2015&theme=tokyonight&border=00f5ff&background=0d1117&ring=a78bfa&fire=00f5ff&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&stroke=00f5ff" height="180"/>
-  </a>
-</p>
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</p>
-
----
-
+--- 
 
 
 
