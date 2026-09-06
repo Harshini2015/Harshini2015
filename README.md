@@ -93,7 +93,9 @@
 
 ## 📊 GitHub Analytics
 
-![Harshini's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Harshini2015&show_icons=true&count_private=true&hide_border=true&theme=radical)
+## 📊 GitHub Analytics
+
+![Harshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshini2015&show_icons=true&count_private=true&hide_border=true&theme=radical)
 
 ![Contribution Graph](https://ghchart.rshah.org/Harshini2015)
 
